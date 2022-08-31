@@ -1,1 +1,2 @@
-# This is a library of thoughts related to daily work
+# My Scientific Knowledge Library
+This is a library in which collection of knowledge related to my daily work reside.
