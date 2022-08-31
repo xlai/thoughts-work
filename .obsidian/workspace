@@ -7,12 +7,8 @@
         "id": "be62e87b58ffa55f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "glossary/AE.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glossary/AE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glossary/AE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "glossary/AE.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,12 +122,13 @@
   },
   "active": "be62e87b58ffa55f",
   "lastOpenFiles": [
+    "glossary/clinical trial.md",
+    "glossary/CRM.md",
     "glossary/CTCAE.md",
     "glossary/DLT.md",
-    "glossary/CRM.md",
     "glossary/MTD.md",
-    "glossary/TTL.md",
     "glossary/SAE.md",
+    "glossary/TTL.md",
     "glossary/AE.md",
     "papers/yap2017dtp.md",
     "README.md"

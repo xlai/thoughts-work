@@ -66,6 +66,54 @@
           "lastUpdated": 1661942972314
         }
       }
+    },
+    "trial": {
+      "trial": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1661947538452
+        }
+      }
+    },
+    "phase I trial": {
+      "phase I trial": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1661947916746
+        }
+      }
+    },
+    "Level": {
+      "Level": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1661949854899
+        }
+      }
+    },
+    "Toxicity": {
+      "Toxicity": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1661949869649
+        }
+      }
+    },
+    "Events": {
+      "Events": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1661949962841
+        }
+      }
+    },
+    "Method": {
+      "Method": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1661949951907
+        }
+      }
     }
   }
 }
