@@ -12,8 +12,9 @@ Clinical trials are usually divided into different phases. The early ones look a
 
 There are three main phases of clinical trials. However some trials are conducted before phase I -- called phase 0, and some, called phase IV trials, are done after a drug has been licensed.
 
-| Phase | Size   | Objectives                        | Randomised |
-| ----- | ------ | --------------------------------- | ---------- |
-| I     | small  | Toxicity/Side effects             | No         |
-| II    | medium | Efficacy                          | Sometimes  |
-| III   | large  | Compare new treatment to standard | Usually           |
+| Phase | Size      | Objectives                        | Randomised |
+| ----- | --------- | --------------------------------- | ---------- |
+| I     | small     | Toxicity/Side effects             | No         |
+| II    | medium    | Efficacy                          | Sometimes  |
+| III   | large     | Compare new treatment to standard | Usually    |
+| IV    | med-large |                                   |            |
