@@ -3,7 +3,7 @@ aliases: MTD
 tags: glossary
 title: Maximum Tolerated Dose
 date created: Wednesday, August 31st 2022, 11:32:13 am
-date modified: Wednesday, August 31st 2022, 11:33:08 am
+date modified: Wednesday, August 31st 2022, 2:49:06 pm
 ---
 # Maximum Tolerated Dose
 

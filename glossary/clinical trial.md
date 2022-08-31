@@ -3,10 +3,10 @@ aliases: trial
 tags: glossary
 title: Clinical Trial
 date created: Wednesday, August 31st 2022, 1:01:29 pm
-date modified: Wednesday, August 31st 2022, 1:02:59 pm
+date modified: Wednesday, August 31st 2022, 2:47:48 pm
 ---
 
-## Phases of clinical trial 
+## Phases of Clinical Trial
 
 Clinical trials are usually divided into different phases. The early ones look at whether a drug is safe or the side effects it causes. While later phase trials aim to compare new treatment to existing ones.
 
