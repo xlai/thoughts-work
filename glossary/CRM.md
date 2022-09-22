@@ -1,9 +1,9 @@
 ---
 aliases: CRM
-tags: glossary
+tags: glossary, CRM
 title: Continual Reassessment Method
 date created: Wednesday, August 31st 2022, 11:29:09 am
-date modified: Wednesday, August 31st 2022, 2:47:57 pm
+date modified: Thursday, September 1st 2022, 9:10:39 am
 ---
 # Continual Reassessment Method
 

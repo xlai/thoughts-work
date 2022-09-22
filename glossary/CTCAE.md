@@ -1,6 +1,6 @@
 ---
 aliases: CTCAE
-tags: 
+tags: glossary 
 title: Common Terminology Criteria for Adverse Events
 date created: Wednesday, August 31st 2022, 11:52:57 am
 date modified: Wednesday, August 31st 2022, 2:48:16 pm

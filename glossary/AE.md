@@ -1,12 +1,13 @@
 ---
 aliases: AE
-tags: 
+tags: glossary 
 title: Adverse Events
 date created: Wednesday, August 31st 2022, 11:44:29 am
 date modified: Wednesday, August 31st 2022, 2:47:39 pm
 ---
-# Adverse Events
+# Adverse Events 
 
-They are unfavourable or abnormal changes occured in trial participants during the clinical tiral or within a specified period following the trial.
+Any untoward medical occurrence in a patient or clinical trial subject administered a medicinal product and which *does not* necessarily have a causal relationship to treatment.
+
 
 See also [[SAE]].
