@@ -7,4 +7,4 @@ date modified: Wednesday, September 21st 2022, 10:56:14 pm
 ---
 # Joint Independent Data Monitoring and Steering Committee
 
-It is a joint committe of IDMC/TSC reserved for rare cancer types, non-randomised exploratory early phase studies.
+It is a joint committee of IDMC/TSC reserved for rare cancer types, non-randomised exploratory early phase studies.

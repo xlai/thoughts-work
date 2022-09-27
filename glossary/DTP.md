@@ -7,4 +7,4 @@ date modified: Wednesday, August 31st 2022, 2:48:26 pm
 ---
 # Dose Transition Pathways
 
-See #CRM for related knoledge.
+See #CRM for related knowledge.
