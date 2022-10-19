@@ -41,77 +41,229 @@
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
     "glossary": {
       "glossary": {
         "frontMatter": {
-          "count": 3,
-          "lastUpdated": 1661942963380
-        }
-      }
-    },
-    "dose-limiting": {
-      "dose-limiting": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1661942256964
-        }
-      }
-    },
-    "Adverse Events": {
-      "Adverse Events": {
-        "frontMatter": {
-          "count": 1,
-          "lastUpdated": 1661942972314
-        }
-      }
-    },
-    "trial": {
-      "trial": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1661947538452
-        }
-      }
-    },
-    "phase I trial": {
-      "phase I trial": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1661947916746
-        }
-      }
-    },
-    "Level": {
-      "Level": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1661949854899
-        }
-      }
-    },
-    "Toxicity": {
-      "Toxicity": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1661949869649
+          "count": 19,
+          "lastUpdated": 1663797227382
         }
       }
     },
     "Events": {
       "Events": {
         "currentFile": {
-          "count": 3,
-          "lastUpdated": 1661949962841
+          "count": 5,
+          "lastUpdated": 1663792001829
         }
       }
     },
-    "Method": {
-      "Method": {
+    "Serious Adverse Events": {
+      "Serious Adverse Events": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1663791682756
+        }
+      }
+    },
+    "MHRA": {
+      "MHRA": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1663682908954
+        }
+      }
+    },
+    "IMP": {
+      "IMP": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1663775448558
+        }
+      }
+    },
+    "Reaction": {
+      "Reaction": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1661949951907
+          "lastUpdated": 1663791883325
+        }
+      }
+    },
+    "Information": {
+      "Information": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663797217785
+        }
+      }
+    },
+    "x_k^{\\exp{\\beta}}": {
+      "x_k^{\\exp{\\beta}}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663925774793
+        }
+      }
+    },
+    "dose-finding": {
+      "dose-finding": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1663938970880
+        }
+      }
+    },
+    "CRM": {
+      "CRM": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1664368654106
+        },
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1664278496232
+        }
+      }
+    },
+    "Agency": {
+      "Agency": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664280558412
+        }
+      }
+    },
+    "Product": {
+      "Product": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664280570643
+        }
+      }
+    },
+    "Committee": {
+      "Committee": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664280587084
+        }
+      }
+    },
+    "TITE-CRM": {
+      "TITE-CRM": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664281276692
+        }
+      }
+    },
+    "estimated": {
+      "estimated": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1664287400564
+        }
+      }
+    },
+    "\\hat{\\beta}_n^w": {
+      "\\hat{\\beta}_n^w": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664287492141
+        }
+      }
+    },
+    "\\text{argmin}_{d_k}": {
+      "\\text{argmin}_{d_k}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1664289895990
+        }
+      }
+    },
+    "\\mathbf{w}": {
+      "\\mathbf{w}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664289673501
+        }
+      }
+    },
+    "\\tilde{\\beta_n^w}": {
+      "\\tilde{\\beta_n^w}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664289920072
+        }
+      }
+    },
+    "Time-to-event": {
+      "Time-to-event": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664368650924
+        }
+      }
+    },
+    "time-point": {
+      "time-point": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1664373400494
+        }
+      }
+    },
+    "method": {
+      "method": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1664436859067
+        }
+      }
+    },
+    "dosing": {
+      "dosing": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1664436875124
+        }
+      }
+    },
+    "Summary": {
+      "Summary": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666041909414
+        }
+      }
+    },
+    "Adaptive Dose Insertion": {
+      "Adaptive Dose Insertion": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666081855176
+        }
+      }
+    },
+    "n+1}}": {
+      "n+1}}": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1666106495646
+        }
+      }
+    },
+    "pre-specified": {
+      "pre-specified": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666167763412
         }
       }
     }

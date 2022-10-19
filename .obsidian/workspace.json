@@ -4,16 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b7a2adf305658877",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "book/chapter_TITE-CRM.md",
-            "mode": "source",
-            "source": false
+        "id": "1ad5fe793165cebc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7a2adf305658877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/clertant2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86e36c4b6352dae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/devlin2021.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fa88a3e330e5a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/hu2013adaptive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/chapter_TITE-CRM.md",
+                "file": "papers/hu2013adaptive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/chapter_TITE-CRM.md",
+                "file": "papers/hu2013adaptive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/chapter_TITE-CRM.md"
+                "file": "papers/hu2013adaptive.md"
               }
             }
           }
@@ -128,17 +161,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7a2adf305658877",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1fa88a3e330e5a9b",
   "lastOpenFiles": [
+    "papers/devlin2021.md",
+    "papers/clertant2022.md",
+    "ideas/adi.md",
+    "glossary/DLT.md",
+    "papers/hu2013adaptive.md",
+    "book/chapter_TITE-CRM.md",
     "ideas/index.md",
     "misc/stopping_rule_derivation.md",
-    "glossary/IDMSC.md",
-    "glossary/TMG.md",
-    "book/chapter_TITE-CRM.md",
-    "README.md",
-    "Q&A to TITE-CRM tutorial.md",
-    "glossary/DLT.md",
-    "glossary/DMP.md",
-    "glossary/DTP.md"
+    "papers/index.md",
+    "glossary/IDMSC.md"
   ]
 }
